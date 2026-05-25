@@ -1,7 +1,3 @@
-//
-// Created by 김민서 on 26. 5. 24.
-// Wireless Network with FLTK GUI (수정됨 - Y 좌표 사용)
-//
 #include <iostream>
 #include <vector>
 #include <algorithm>
