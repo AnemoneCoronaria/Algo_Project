@@ -13,9 +13,20 @@
 컴파일러는 gcc
 
 ### 컴파일
+#### Linux and Mac
 ```
 gcc -o dynamic dynamic.c -lm
 ./dynamic
+```
+
+#### Windows
+```
+MSYS2 설치
+
+이후...
+
+gcc -o dynamic.exe dynamic.c -lm
+./dynamic.exe
 ```
 
 
@@ -29,9 +40,20 @@ gcc -o dynamic dynamic.c -lm
 컴파일러는 gcc
 
 ### 컴파일
+#### Linux and Mac
 ```
 gcc -o bridge bridge.c
 ./bridge
+```
+
+#### Windows
+```
+MSYS2 설치
+
+이후...
+
+gcc -o bridge.exe bridge.c
+./bridge.exe
 ```
 
 
